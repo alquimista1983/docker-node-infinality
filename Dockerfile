@@ -30,3 +30,4 @@ RUN git clone https://github.com/peakji/phantomjs.git && \
     cd .. && \
     rm -rf phantomjs
 
+ENV PHANTOM_PATH /usr/local/bin/phantomjs
