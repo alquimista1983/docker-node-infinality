@@ -26,8 +26,8 @@ RUN apt-get install -y --no-install-recommends build-essential g++ flex bison gp
 RUN git clone https://github.com/peakji/phantomjs.git && \
     cd phantomjs && \
     python build.py -c && \
-    mv bin/phantomjs /usr/local/bin/myPhantom && \
+    mv bin/phantomjs /usr/local/bin/ && \
     cd .. && \
     rm -rf phantomjs
 
-ENV PHANTOM_PATH /usr/local/bin/myPhantom
+ENV PHANTOM_PATH /usr/local/bin/phantomjs
