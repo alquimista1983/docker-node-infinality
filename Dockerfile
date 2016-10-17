@@ -12,7 +12,10 @@ RUN echo "deb http://ppa.launchpad.net/no1wantdthisname/ppa/ubuntu trusty main" 
     echo "deb-src http://ppa.launchpad.net/no1wantdthisname/ppa/ubuntu trusty main" | tee -a /etc/apt/sources.list.d/infinality.list && \
     apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E985B27B && \
     apt-get update && apt-get install -y --no-install-recommends \
-      libfontconfig fontconfig-infinality ttf-mscorefonts-installer fonts-liberation tex-gyre && \
-    bash /etc/fonts/infinality/infctl.sh setstyle osx && \
-    fc-cache -vf
+      libfontconfig fontconfig-infinality ttf-mscorefonts-installer fonts-liberation fonts-roboto && \
+    bash /etc/fonts/infinality/infctl.sh setstyle osx
+
+COPY fonts /usr/local/share/fonts
+
+RUN fc-cache -vf
 
