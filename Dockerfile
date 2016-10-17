@@ -16,18 +16,3 @@ RUN echo "deb http://ppa.launchpad.net/no1wantdthisname/ppa/ubuntu trusty main" 
     bash /etc/fonts/infinality/infctl.sh setstyle osx && \
     fc-cache -vf
 
-# phantomjs
-RUN apt-get install -y --no-install-recommends build-essential g++ flex bison gperf ruby perl \
-  libsqlite3-dev libfontconfig1-dev libicu-dev libfreetype6 libssl-dev \
-  libpng-dev libjpeg-dev python libx11-dev libxext-dev
-
-# COPY phantomjs phantomjs
-
-RUN git clone https://github.com/peakji/phantomjs.git && \
-    cd phantomjs && \
-    python build.py -c && \
-    mv bin/phantomjs /usr/local/bin/ && \
-    cd .. && \
-    rm -rf phantomjs
-
-ENV PHANTOM_PATH /usr/local/bin/phantomjs
