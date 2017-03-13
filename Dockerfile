@@ -4,7 +4,7 @@ FROM node:7.7.1
 MAINTAINER Team Reelevant <dev@reelevant.com>
 
 # GD graphics lib
-RUN echo "deb http://httpredir.debian.org/debian jessie contrib" >> /etc/apt/sources.list && \
+RUN echo "deb http://httpredir.debian.org/debian jessie main contrib non-free" >> /etc/apt/sources.list && \
     apt-get update && apt-get install -y --no-install-recommends libgd-dev
 
 # fonts 
