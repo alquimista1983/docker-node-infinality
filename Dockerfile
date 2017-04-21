@@ -1,5 +1,5 @@
 # Based on debian jessie
-FROM node:7.7.4
+FROM node:7.9.0
 
 MAINTAINER Team Reelevant <dev@reelevant.com>
 
