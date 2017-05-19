@@ -11,6 +11,7 @@ Docker image based on node:7.9.0 with [infinality](https://bohoomil.com/) for cr
     Black Santa
     C39HrP24DhTt
     C39HrP48DhTt
+    calendar note tfb
     Capture it
     Checkpoint Charlie
     Code Bold
@@ -33,10 +34,14 @@ Docker image based on node:7.9.0 with [infinality](https://bohoomil.com/) for cr
     Impact Label
     Impact Label Reversed
     Karmatic Arcade
+    kindergarten
     Liberation Mono
     Liberation Sans
     Liberation Sans Narrow
     Liberation Serif
+    museosansrounded
+    museosansroundedbold
+    museosansroundedlight
     Nunito
     OCR A Extended
     Open Sans
@@ -49,20 +54,16 @@ Docker image based on node:7.9.0 with [infinality](https://bohoomil.com/) for cr
     Scratched Letters
     Snowtop Caps
     Tahoma
-    TimeToParty
     Times New Roman
+    TimeToParty
     TinyShack
     Top Secret
     Trebuchet MS
+    vandervon
     Verdana
     Webdings
     Woodcutter Tags on a Rope
-    calendar note tfb
-    kindergarten
-    museosansrounded
-    museosansroundedbold
-    museosansroundedlight
-    vandervon
+
 
 This list is generated with:
 
