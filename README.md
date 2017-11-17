@@ -7,11 +7,11 @@ Docker image based on node:8.6.0 with [infinality](https://bohoomil.com/) for cr
     Andale Mono
     Arial
     Arial Black
+    Avenir LT Std,Avenir LT Std 35 Light
     BarMKode
     Black Santa
     C39HrP24DhTt
     C39HrP48DhTt
-    calendar note tfb
     Capture it
     Checkpoint Charlie
     Code Bold
@@ -30,40 +30,70 @@ Docker image based on node:8.6.0 with [infinality](https://bohoomil.com/) for cr
     Futura
     Gang of Three
     Georgia
+    Gill Sans
+    GillSans Condensed
+    Gordita,Gordita Black
+    Gordita,Gordita Bold
+    Gordita,Gordita Light
+    Gordita,Gordita Medium
+    Gordita,Gordita Regular
+    Gotham,Gotham Black
+    Gotham,Gotham Bold
+    Gotham,Gotham Book
+    Gotham,Gotham Extra Light
+    Gotham,Gotham Light
+    Gotham,Gotham Medium
+    Gotham,Gotham Thin
+    Gotham,Gotham Ultra
+    HappinessBeta
+    HappinessScripte
+    HappinessV1
     Impact
     Impact Label
     Impact Label Reversed
     Karmatic Arcade
-    kindergarten
     Liberation Mono
     Liberation Sans
     Liberation Sans Narrow
     Liberation Serif
-    museosansrounded
-    museosansroundedbold
-    museosansroundedlight
+    Miller Display
+    Miller Display Lancome,Miller Display Lancome Light
+    Miller Display Lancome,Miller Display Lancome Light Italic
+    Miller Display Lancome,Miller Display Lancome Roman
+    Miller Display,MillerDisplay Light
+    MillerDisplay,MillerDisplay Light
+    MillerDisplay,MillerDisplay LightItalic
     Nunito
     OCR A Extended
     Open Sans
+    Optima LT CYR
     PartybyTom
     PaybAck
     Plane Crash
+    Professor
+    Raleway
     Renault Life
     Roboto
     Roboto Condensed
     Scratched Letters
     Snowtop Caps
     Tahoma
-    Times New Roman
     TimeToParty
+    Times New Roman
     TinyShack
     Top Secret
     Trebuchet MS
-    vandervon
     Verdana
+    Weather Icons
     Webdings
     Woodcutter Tags on a Rope
-
+    calendar note tfb
+    kindergarten
+    museosansrounded
+    museosansroundedbold
+    museosansroundedlight
+    pmu-icofont
+    vandervon
 
 This list is generated with:
 
