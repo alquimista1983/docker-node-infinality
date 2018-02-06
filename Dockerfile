@@ -1,4 +1,4 @@
-FROM node:8.8.1
+FROM node:8.9.4
 
 MAINTAINER Team Reelevant <dev@reelevant.com>
 
