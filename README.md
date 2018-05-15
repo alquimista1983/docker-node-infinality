@@ -1,6 +1,6 @@
 # node-infinality
 
-Docker image based on node:8.6.0 with [infinality](https://bohoomil.com/) for crisp font rendering.
+Docker image based on node:8.11.1 with [infinality](https://bohoomil.com/) for crisp font rendering.
 
 ## Available font families
 
@@ -12,6 +12,7 @@ Docker image based on node:8.6.0 with [infinality](https://bohoomil.com/) for cr
     Black Santa
     C39HrP24DhTt
     C39HrP48DhTt
+    calendar note tfb
     Capture it
     Checkpoint Charlie
     Code Bold
@@ -52,6 +53,7 @@ Docker image based on node:8.6.0 with [infinality](https://bohoomil.com/) for cr
     Impact Label
     Impact Label Reversed
     Karmatic Arcade
+    kindergarten
     Liberation Mono
     Liberation Sans
     Liberation Sans Narrow
@@ -63,6 +65,9 @@ Docker image based on node:8.6.0 with [infinality](https://bohoomil.com/) for cr
     Miller Display,MillerDisplay Light
     MillerDisplay,MillerDisplay Light
     MillerDisplay,MillerDisplay LightItalic
+    museosansrounded
+    museosansroundedbold
+    museosansroundedlight
     Nunito
     OCR A Extended
     Open Sans
@@ -70,6 +75,7 @@ Docker image based on node:8.6.0 with [infinality](https://bohoomil.com/) for cr
     PartybyTom
     PaybAck
     Plane Crash
+    pmu-icofont
     Professor
     Raleway
     Renault Life
@@ -78,22 +84,16 @@ Docker image based on node:8.6.0 with [infinality](https://bohoomil.com/) for cr
     Scratched Letters
     Snowtop Caps
     Tahoma
-    TimeToParty
     Times New Roman
+    TimeToParty
     TinyShack
     Top Secret
     Trebuchet MS
+    vandervon
     Verdana
     Weather Icons
     Webdings
     Woodcutter Tags on a Rope
-    calendar note tfb
-    kindergarten
-    museosansrounded
-    museosansroundedbold
-    museosansroundedlight
-    pmu-icofont
-    vandervon
 
 This list is generated with:
 
